@@ -78,7 +78,7 @@ The project dependencies are listed in `requirements.txt`.
 
 ## Author
 
-**Mohammed Saad Jariwala**
+**Jariwala Mohit S.**
 
 Aspiring Data Analyst | Python | Pandas | Data Cleaning & Preprocessing
 
